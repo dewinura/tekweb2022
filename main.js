@@ -24,7 +24,7 @@ Vue.createApp({
           title: "WHAT ABOUT ME ?",
           description: "Nama saya Dewi Nur Apriliyani, lahir di Klaten pada tanggal 1 April 2002. Saya anak kedua dari dua bersaudara. Ibu saya adalah seorang guru dan ayah saya adalah seorang pegawai swasta. Saya memiliki seorang kakak perempuan, dia seorang guru. Saat ini saya adalah mahasiswi semester 4 program studi Sistem Informasi Universitas Ahmad Dahlan Yogyakarta.",
           thumbnail:'image/foto.jpg'
-        }
+        },
         articles1: 
         {
           description: "SD Muhammadiyah Wedi adalah sebuah satuan pendidikan setingkat SD di Kalitengah, Wedi, Kabupaten Klaten, Jawa Tengah.",
