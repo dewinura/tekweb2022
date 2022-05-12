@@ -22,7 +22,7 @@ Vue.createApp({
         articles: 
         {
          title: 'WHAT ABOUT ME ?',
-         description: "My name is Dewi Nur Apriliyani, born in Klaten on April 1, 2002. I am the second of two children. My mother is a teacher and my father is a private employee.I have an older sister, she is a teacher.I am currently a 4th semester student of the Information Systems study program at Ahmad Dahlan University.",
+         description: "Nama saya Dewi Nur Apriliyani, lahir di Klaten pada tanggal 1 April 2002. Saya anak kedua dari dua bersaudara. Ibu saya adalah seorang guru dan ayah saya adalah seorang pegawai swasta. Saya memiliki seorang kakak perempuan, dia seorang guru. Saat ini saya adalah mahasiswi semester 4 program studi Sistem Informasi Universitas Ahmad Dahlan.",
          thumbnail: 'image/foto.jpg'
        },
         articles1: 
@@ -31,17 +31,17 @@ Vue.createApp({
         },
         articles2: 
         {
-          description: "Wedi Muhammadiyah Elementary School is an elementary-level educational unit in Kalitengah, Wedi, Klaten Regency, Central Java.",
+          description: "SD Muhammadiyah Wedi adalah sebuah satuan pendidikan setingkat SD di Kalitengah, Wedi, Kabupaten Klaten, Jawa Tengah.",
           thumbnail: 'image/sd.png'
         },
         articles3: 
         {
-          description: "Wedi State Junior High School 1 is a State Junior High School located in Klaten Regency with the address Sukorejo, Wedi, Klaten.",
+          description: "SMP Negeri 1 Wedi adalah Sekolah Menengah Pertama Negeri yang terletak di Kabupaten Klaten dengan alamat Sukorejo, Wedi, Klaten.",
           thumbnail: 'image/smp1.jpg'
         },
         articles4: 
         {
-          description: "State High School 1 Jogonalan is an educational unit with a high school level in Prawatan, Jogonalan, Klaten Regency, Central Java.",
+          description: "SMA Negeri 1 Jogonalan adalah sebuah satuan pendidikan setingkat SMA di Prawatan, Jogonalan, Kabupaten Klaten, Jawa Tengah.",
           thumbnail: 'image/sma.jpg'
         },
       

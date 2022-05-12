@@ -16,7 +16,7 @@
     />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
     <link rel="stylesheet" href="./style.css">
-    <title>Portofolio</title>   
+    <title>Portofolio || Dewi</title>   
   </head>
   <body id = "app">
       <!--Header-->
@@ -25,7 +25,7 @@
       <div class="container h-100">
         <div class="row h-100 align-items-center">
           <div class="col-6 text-white">
-            <h1>{{header.title}}</h1>
+            <h1>{{header.title}}</h1><br>
             <p>{{header.description}}</p>
             <div class="social">
               <a v-bind:href="header.social.ig.url"><i class="bi-instagram"></i> {{header.social.ig.title}}</a>
@@ -50,8 +50,9 @@
                   </div>
                   <div class="col-lg-6">
                       <div class="p-5">
-                          <h2 class="display-4">{{articles.title}}</h2>
-                          <p>{{articles.description}}</p>
+                          <h2 class="display-4">{{articles1.title}}</h2>
+                          <p>{{articles1.description}}</p>
+                          <a href="#" class="btn btn-primary">Read More</a>
                       </div>
                   </div>
               </div>
@@ -61,23 +62,42 @@
       </div>
     <div class="container pt-3">
       <div class="container-fluid bg-3 text-center">    
-        <h3 class="margin">{{articles1.title}}</h3><br>
+        <h3 class="margin">{{articles2.title}}</h3><br>
         <div class="row">
-          <div class="col-sm-4">
-            <p>{{articles2.description}}</p>
-            <img v-bind:src="articles2.thumbnail" class="img-responsive margin" style="width:100%" alt="Image">
-          </div>
-          <div class="col-sm-4"> 
-            <p>{{articles3.description}}</p>
-            <img v-bind:src="articles3.thumbnail" class="img-responsive margin" style="width:100%" alt="Image">
-          </div>
-          <div class="col-sm-4"> 
-            <p>{{articles4.description}}</p>
-            <img v-bind:src="articles4.thumbnail" class="img-responsive margin" style="width:100%" alt="Image">
-          </div>
+          <div class="col-md-4">
+            <div class="card">
+              <img class="card-img-top" v-bind:src="articles2.thumbnail" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">{{articles3.title}}</h5>
+                <p class="card-text">{{articles3.description}}</p>
+                <a href="#" class="btn btn-primary">Read More</a>
+              </div>
+            </div>
+          </div>  
+
+          <div class="col-md-4">
+            <div class="card">
+              <img class="card-img-top" v-bind:src="articles3.thumbnail" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">{{articles4.title}}</h5>
+                <p class="card-text">{{articles4.description}}</p>
+                <a href="#" class="btn btn-primary">Read More</a>
+              </div>
+            </div>
+          </div> 
+
+          <div class="col-md-4">
+            <div class="card">
+              <img class="card-img-top" v-bind:src="articles4.thumbnail" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">{{articles5.title}}</h5>
+                <p class="card-text">{{articles5.description}}</p>
+                <a href="#" class="btn btn-primary">Read More</a>
+              </div>
+            </div>
+          </div> 
         </div>
       </div>
-  
       </div>
   
       <!--end articles-->
@@ -101,6 +121,7 @@
     crossorigin="anonymous"
   ></script>
   <script src="https://unpkg.com/vue@3"></script>
-  <script src="main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="./get_json.js"></script>
   </body>
 </html>
