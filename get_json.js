@@ -1,16 +1,4 @@
 Vue.createApp({
-  data() {
-    return {
-      message: "Hello Vue!",
-      header: {},
-    };
-  },
-  methods: {
-    getHeaderData()
-    {
-      axios
-        .get(
-          "Vue.createApp({
             data() {
               return {
                 message: "Hello Vue!",
@@ -22,7 +10,7 @@ Vue.createApp({
               {
                 axios
                   .get(
-                    "https://raw.githubusercontent.com/faridsurya/Vue-Axios-Basic/master/contents/header.json"
+                    "https://raw.githubusercontent.com/dewinura/tekweb2022/main/contents/articles.json"
                   )
                   .then((res) => {
                     console.log(res.data); //melihat respon data pada console browser
