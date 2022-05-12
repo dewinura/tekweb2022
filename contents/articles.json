@@ -1,25 +1,19 @@
 [
+
     {
       "ID" : "1",
-      "title": "WHAT ABOUT ME ?",
-      "description": "Nama saya Dewi Nur Apriliyani, lahir di Klaten pada tanggal 1 April 2002. Saya anak kedua dari dua bersaudara. Ibu saya adalah seorang guru dan ayah saya adalah seorang pegawai swasta. Saya memiliki seorang kakak perempuan, dia seorang guru. Saat ini saya adalah mahasiswi semester 4 program studi Sistem Informasi Universitas Ahmad Dahlan.",
-      "thumbnail": "image/foto.jpg",
-      "markdown" : "articles-1.md"
-    },
-    {
-      "ID" : "2",
       "description": "SD Muhammadiyah Wedi adalah sebuah satuan pendidikan setingkat SD di Kalitengah, Wedi, Kabupaten Klaten, Jawa Tengah.",
       "thumbnail": "image/sd.png",
       "markdown" : "articles-2.md"
     },
     {
-      "ID" : "3",
+      "ID" : "2",
       "description": "SMP Negeri 1 Wedi adalah Sekolah Menengah Pertama Negeri yang terletak di Kabupaten Klaten dengan alamat Sukorejo, Wedi, Klaten.",
       "thumbnail": "image/smp1.jpg",
       "markdown" : "articles-3.md"
     },
     {
-      "ID" : "4",
+      "ID" : "3",
       "description": "SMA Negeri 1 Jogonalan adalah sebuah satuan pendidikan setingkat SMA di Prawatan, Jogonalan, Kabupaten Klaten, Jawa Tengah.",
       "thumbnail": "image/sma.jpg",
       "markdown": "articles-4.md"

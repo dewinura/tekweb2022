@@ -27,10 +27,6 @@
           <div class="col-6 text-white">
             <h1>{{header.title}}</h1><br>
             <p>{{header.description}}</p>
-            <div class="social">
-              <a v-bind:href="header.social.ig.url"><i class="bi-instagram"></i> {{header.social.ig.title}}</a>
-              <a v-bind:href="header.social.fb.url"><i class="bi-github"></i> {{header.social.fb.title}}</a>
-            </div>
           </div>
           <div class="col-6 align-self-end text-center">
             <img   v-bind:src="header.imageProfile">
@@ -41,60 +37,18 @@
     <!--end header-->
     <!--Articles-->
     <div class="container pt-3">
-      <div class="row">
-        <section>
-          <div class="container px-5">
-              <div class="row gx-5 align-items-center">
-                  <div class="col-lg-6">
-                      <div class="p-5"><img class="img-fluid rounded-circle" v-bind:src="articles.thumbnail" alt="..." /></div>
-                  </div>
-                  <div class="col-lg-6">
-                      <div class="p-5">
-                          <h2 class="display-4">{{articles1.title}}</h2>
-                          <p>{{articles1.description}}</p>
-                          <a href="#" class="btn btn-primary">Read More</a>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </section>
-      </div>
-      </div>
-    <div class="container pt-3">
-      <div class="container-fluid bg-3 text-center">    
+      <div class="container-fluid bg-3 text-center" v-for="data in articles">    
         <div class="row">
           <div class="col-md-4">
             <div class="card">
-              <img class="card-img-top" v-bind:src="articles2.thumbnail" alt="Card image cap">
+              <img class="card-img-top" v-bind:src="data.thumbnail" alt="Card image cap">
               <div class="card-body">
-                <h5 class="card-title">{{articles2.title}}</h5>
-                <p class="card-text">{{articles2.description}}</p>
+                <h5 class="card-title">{{data.title}}</h5>
+                <p class="card-text">{{data.description}}</p>
                 <a href="#" class="btn btn-primary">Read More</a>
               </div>
             </div>
           </div>  
-
-          <div class="col-md-4">
-            <div class="card">
-              <img class="card-img-top" v-bind:src="articles3.thumbnail" alt="Card image cap">
-              <div class="card-body">
-                <h5 class="card-title">{{articles3.title}}</h5>
-                <p class="card-text">{{articles3.description}}</p>
-                <a href="#" class="btn btn-primary">Read More</a>
-              </div>
-            </div>
-          </div> 
-
-          <div class="col-md-4">
-            <div class="card">
-              <img class="card-img-top" v-bind:src="articles4.thumbnail" alt="Card image cap">
-              <div class="card-body">
-                <h5 class="card-title">{{articles4.title}}</h5>
-                <p class="card-text">{{articles4.description}}</p>
-                <a href="#" class="btn btn-primary">Read More</a>
-              </div>
-            </div>
-          </div> 
         </div>
       </div>
       </div>
