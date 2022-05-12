@@ -19,12 +19,11 @@ Vue.createApp({
                   .catch((error) => {
                     console.log(error); //melihat error jika pengambilan data adalah gagal
                   });
-              }
-              getArticlesData()
-              {
+              },
+              getArticlesData(){
                 axios
                 .get(
-                  "https://raw.githubusercontent.com/dewinura/tekweb2022/main/contents/articles.json"
+                   "https://raw.githubusercontent.com/dewinura/tekweb2022/main/contents/articles.json"
                 )
                 .then((res) => {
                     console.log(res.data); //melihat respon data pada console browser
@@ -33,10 +32,10 @@ Vue.createApp({
                 .catch((error) => {
                     console.log(error); //melihat error jika pengambilan data adalah gagal
                   });
-              }
+              },
             },
             beforeMount() {
               this.getHeaderData() //eksekusi fungsi getHeaderData() pada bagian methods saat halaman terbuka
               this.getArticlesData()
             },
-          }).mount("#app");"
+          }).mount("#app");
