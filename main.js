@@ -6,16 +6,6 @@ Vue.createApp({
         title: "Dewi Nur Apriliyani",
         description:
           "My name is Dewi Nur Apriliyani a student of Ahmad Dahlan University Yogyakarta, born in Klaten on April 1, 2002",
-        social: {
-          ig: {
-            url: "https://www.instagram.com/dewinaa.__/",
-            title: "dewinaa.__",
-          },
-          fb: {
-            url: "https://github.com/dewinura/tekweb2022",
-            title: "dewinura",
-          },
-        },
         imageProfile:
           "image/fotokuu.png",
         },
