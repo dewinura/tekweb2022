@@ -17,6 +17,17 @@ Vue.createApp({
           console.log(error);
         });
     },
+    getAboutData() {
+      axios
+        .get('https://raw.githubusercontent.com/dewinura/tekweb2022/main/contents/articles.json')
+        .then((res) => {
+          console.log(res.data);
+          this.articles = res.data;
+        })
+        .catch((error) => {
+          console.log(error);
+        });
+    },
     getArticlesData() {
       axios
         .get('https://raw.githubusercontent.com/dewinura/tekweb2022/main/contents/articles.json')
@@ -31,6 +42,7 @@ Vue.createApp({
   },
   beforeMount() {
     this.getHeaderData();
+    this.getAboutData();
     this.getArticlesData();
   },
 }).mount('#app');
