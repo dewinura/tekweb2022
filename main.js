@@ -3,7 +3,7 @@ Vue.createApp({
     return {
       message: "Hello Vue!",
       header: {
-        title: "Dewi Nur Apriliyani",
+        title: "H e l l o !",
         description:
           "My name is Dewi Nur Apriliyani a student of Ahmad Dahlan University Yogyakarta, born in Klaten on April 1, 2002",
         imageProfile:
