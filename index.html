@@ -19,16 +19,28 @@
     <title>Portofolio || Dewi</title>   
   </head>
   <body id = "app">
-      <!--Navbar-->
-        <nav class="navbar navbar-default" style="background-color: rgba(0, 0, 0, 0.788);">
-            <div class="container-fluid" >
-            <div class="navbar-header">
-                <a class="navbar-brand" href="index.html" style="color: rgb(255, 255, 255);">Home</a>
-                <a class="navbar-brand" href="articles.html" style="color: rgb(255, 255, 255);">Articles</a>
-            </div>
-        </nav>
-      <!--end navbar-->
-      <!--Header-->
+  <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-dark shadow-sm fixed-top" style="background-color: #000000;">
+      <div class="container">
+        <a class="navbar-brand" href="#">MY PORTOFOLIO</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="articles.html">Article</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!--end navbar-->
+    
+    <!--Header-->
     <div v-if="true" class="cover" style="background-image: url(bg-gunung.jpg);">
       <div class="masking"></div>
       <div class="container h-100">
