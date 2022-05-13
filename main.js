@@ -11,7 +11,7 @@ Vue.createApp({
         },
         articles1: 
         {
-          description: "SD Muhammadiyah Wedi adalah sebuah satuan pendidikan setingkat SD di Kalitengah, Wedi, Kabupaten Klaten, Jawa Tengah.",
+          title: "SD Muhammadiyah Wedi adalah sebuah satuan pendidikan setingkat SD di Kalitengah, Wedi, Kabupaten Klaten, Jawa Tengah.",
           thumbnail: 'image/sd.png'
         },
         articles2: 
