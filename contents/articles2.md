@@ -1,4 +1,4 @@
-SMP NEGERI 1 WEDI
+# SMP NEGERI 1 WEDI
 
 SMP Negeri 1 Wedi merupakan salah satu sekolah di jenjang Sekolah Menengah Pertama (SMP) yang berad di Desa Sukorejo, Kecamatan Wedi, Kabupaten Klaten, Jawa Tengah. Dalam menjalankan kegiatannya, SMP Negeri 1 Wedu berada di bawah naungan Kementrian Pendidikan dan Kebudayaan. Kegiatan belajar mengajar di SMP Negeri 1 Wedu dilaksanakan selama 6 hari dalam seminggu. Selain itu, SMP Negeri 1 Wedi memiliki Akreditasi A berdasarkan Sertifikat 220/BAP-SM/X/2016.
 
@@ -8,7 +8,6 @@ Kurikulum  SMP Negeri 1 Wedi Klaten disusun berdasarkan Standar Isi (SI), Standa
 VISI 
 
 "MENINGKATKAN DALAM PRESTASI, TERPUJI DALAM IMTAQ, DAN BUDI PEKERTI"
-
 
 MISI 
 

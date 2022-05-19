@@ -1,4 +1,4 @@
-SMA NEGERI 1 JOGONALAN
+# SMA NEGERI 1 JOGONALAN
 
 SMA Negeri 1 Jogonalan merupakan salah satu sekolah jenjang sekolah menengah atas yang berada di Desa Prawatan, Kecamatan Jogonalan, Kabupaten Klaten, Jawa Tengah. Dalam menjalankan kegiatannya, SMA N 1 Jogonalan berada di bawah naungan Kementerian Pendidikan dan Kebudayaan. Kegiatan belajar mengajar di SMA Negeri 1 Jogonalan dilaksanakan selama 5 hari dalam seminggu. Selain itu, SMA Negeri 1 Jogonalan memiliki Akreditasi A berdasarkan Sertifikat 817/BAN-SM/SK/2019.
 
