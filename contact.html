@@ -35,56 +35,15 @@
               <a class="nav-link" href="articles.html">Article</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contact.html">Contact</a>
+                <a class="nav-link" href="contact.html">Contact</a>
             </li>
           </ul>
         </div>
       </div>
     </nav>
     <!--end navbar-->
-    
-    <!--Header-->
-    <div v-if="true" class="cover" style="background-image: url(bg-gunung.jpg);">
-      <div class="masking"></div>
-      <div class="container h-100">
-        <div class="row h-100 align-items-center">
-          <div class="col-6 text-white">
-            <h1>{{header.title}}</h1><br>
-            <p>{{header.description}}</p>
-          </div>
-          <div class="col-6 align-self-end text-center">
-            <img v-bind:src="header.imageprofile">
-          </div>
-        </div>
-      </div>   
-    </div>
-    <!--end header-->
 
-    <!--Articles-->
-        <div class="container pt-3"></div>
-        <div class="row text-center mb-3">
-          <div class="col">
-            <h2><br>MY ARTICLES</br></h2>
-          </div>
-        </div>
-        <div class="container pt-3">
-          <div class="row">
-            <div class="col-md-4" v-for="data in articles">
-              <div class="card">
-                <img class="card-img-top" v-bind:src="data.thumbnail" alt="Card image cap">
-                <div class="card-body">
-                  <h5 class="card-title">{{data.title}}</h5><br>
-                  <p class="card-text">{{data.description}}</p>
-                  <a :href="'read.html?articles='+data.content" class="btn btn-primary" role="button">Read More</a>
-                </div>
-              </div>
-            </div>   
-          </div>
-        </div>
-        
-      <!--end articles-->
-
-      <!--contact-->
+    <!--contact-->
 
         <div class="container pt-3"></div>
          <div class="row text-center mb-3">
@@ -117,7 +76,7 @@
           <a href="https://www.instagram.com/dewinaa.__/?hl=id"><i class="bi-instagram"></i> @dewinaa.__</a>&nbsp &nbsp &nbsp &nbsp &nbsp
           <a href="https://github.com/dewinura/tekweb2022"><i class="bi-github"></i> dewinura</a>&nbsp &nbsp &nbsp &nbsp &nbsp
         </div>
-      <!--end contact-->
+    <!--end contact-->
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
