@@ -1,7 +1,7 @@
 Vue.createApp({
     data() {
       return {
-        article: null,
+        articles: null,
       };
     },
     methods: {
@@ -10,18 +10,18 @@ Vue.createApp({
         const urlParams = new URLSearchParams(queryString);
         const article = urlParams.get('article');
         var converter = new showdown.Converter();
-        console.log(articls);
+        console.log(articles);
         axios
           .get("https://raw.githubusercontent.com/dewinura/tekweb2022/main/contents/"+
           article
           )
           .then((res) => {
             var html = converter.makeHtml(res.data);
-            this.article = html;
+            this.articles = html;
             console.log(html);
           })
           .catch((error) => {
-            console.log(error);
+            consoles.log(error);
           });
       },
     },
