@@ -5,11 +5,11 @@ SMP Negeri 1 Wedi merupakan salah satu sekolah di jenjang Sekolah Menengah Perta
 Kurikulum  SMP Negeri 1 Wedi Klaten disusun berdasarkan Standar Isi (SI), Standar Kompetensi Lulusan ( SKL) yang telah dikeluarkan oleh badan standarisasi nasional pendidikan (BSNP) dengan memperhatikan kondisi sekolah.Pembuatan kurikulum SMP Negri 1 Wedi Klaten melibatkan semua unsur yang terkait yaitu: guru, kepala sekolah dan komite.
 
 
-1.        VISI SEKOLAH
+VISI 
 "MENINGKATKAN DALAM PRESTASI, TERPUJI DALAM IMTAQ, DAN BUDI PEKERTI"
 
 
-2.        MISI SEKOLAH
+MISI 
 a. Melaksanakan proses belajar mengajar secara efektif sehingga setiap siswa berkembang secara optimal sesuai potensi yang dimiliki.
 b. Mendorong dan membantu siswa untuk mengenali potensi dirinya sendiri agar dapat berkomunikasi dengan baik.
 c. Menyelenggarakan kegiatan penelitian ilmiah remaja di berbagai bidang.
