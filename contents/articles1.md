@@ -9,6 +9,7 @@ VISI
 
 
 MISI
+
     Melaksanakan pembelajaran yang sesuai dengan al Qur’an dan al Hadits
     Membiasakan siswa berperilaku jujur, disiplin, bertanggung jawab dan kerjasama
     Menyediakan sarana dan prasarana yang mendukung pengembangan potensi peserta didik
