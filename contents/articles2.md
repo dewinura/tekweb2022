@@ -6,16 +6,18 @@ Kurikulum  SMP Negeri 1 Wedi Klaten disusun berdasarkan Standar Isi (SI), Standa
 
 
 VISI 
+
 "MENINGKATKAN DALAM PRESTASI, TERPUJI DALAM IMTAQ, DAN BUDI PEKERTI"
 
 
 MISI 
-a. Melaksanakan proses belajar mengajar secara efektif sehingga setiap siswa berkembang secara optimal sesuai potensi yang dimiliki.
-b. Mendorong dan membantu siswa untuk mengenali potensi dirinya sendiri agar dapat berkomunikasi dengan baik.
-c. Menyelenggarakan kegiatan penelitian ilmiah remaja di berbagai bidang.
-d. Melestarikan dan mengembangkan seni dan budaya bangsa.
-e. Menyelenggarakan pelatihan dan bimbingan untuk berprestasi di bidang olahraga.
-f. Mengembangkan budaya kompetitif bagi siswa dalam upaya peningkatan ketrampilan.
-g. Meningkatkan keimanan dan ketaqwaan terhadap Tuhan Yang Maha Esa.
-h. Melaksanakan penghayatan terhadap ajaran agama yang dianut sehingga melahirkan budi pekerti yang terpuji.
-i. Mengadakan koordinasi dengan masyarakat, instansi terkait.
+
+    Melaksanakan proses belajar mengajar secara efektif sehingga setiap siswa berkembang secara optimal sesuai potensi yang dimiliki.
+    Mendorong dan membantu siswa untuk mengenali potensi dirinya sendiri agar dapat berkomunikasi dengan baik.
+    Menyelenggarakan kegiatan penelitian ilmiah remaja di berbagai bidang.
+    Melestarikan dan mengembangkan seni dan budaya bangsa.
+    Menyelenggarakan pelatihan dan bimbingan untuk berprestasi di bidang olahraga.
+    Mengembangkan budaya kompetitif bagi siswa dalam upaya peningkatan ketrampilan.
+    Meningkatkan keimanan dan ketaqwaan terhadap Tuhan Yang Maha Esa.
+    Melaksanakan penghayatan terhadap ajaran agama yang dianut sehingga melahirkan budi pekerti yang terpuji.
+    Mengadakan koordinasi dengan masyarakat, instansi terkait.

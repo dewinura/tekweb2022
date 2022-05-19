@@ -5,20 +5,20 @@
       "title" : "SD MUHAMMADIYAH WEDI",
       "description": "SD Muhammadiyah Wedi adalah sebuah satuan pendidikan setingkat SD di Kalitengah, Wedi, Kabupaten Klaten, Jawa Tengah.",
       "thumbnail": "image/sd.png",
-      "markdown" : "articles1.md"
+      "content" : "articles1.md"
     },
     {
       "ID" : "2",
       "title": "SMP NEGERI 1 WEDI",
       "description": "SMP Negeri 1 Wedi adalah Sekolah Menengah Pertama Negeri yang terletak di Kabupaten Klaten dengan alamat Sukorejo, Wedi, Klaten.",
       "thumbnail": "image/smp1.jpg",
-      "markdown" : "articles2.md"
+      "content" : "articles2.md"
     },
     {
       "ID" : "3",
       "title":"SMA NEGERI 1 JOGONALAN",
       "description": "SMA Negeri 1 Jogonalan adalah sebuah satuan pendidikan setingkat SMA di Prawatan, Jogonalan, Kabupaten Klaten, Jawa Tengah.",
       "thumbnail": "image/sma.jpg",
-      "markdown": "articles3.md"
+      "content": "articles3.md"
     }
   ]

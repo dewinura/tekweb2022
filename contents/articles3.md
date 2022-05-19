@@ -11,7 +11,7 @@ VISI
 
 MISI
 
-    a. Menumbuhkembangkan Perilaku Religius para Peserta Didik sehingga dapat menghayati dan mengamalkan ajaran Agama yang dianutnya dalam segala bidang kehidupan
-    b. Menumbuhkan Kedisiplinan, sikap percaya diri, saling menghargai dan kerjasama, sehingga mampu membentuk sikap peserta didik yang berbudi pekerti luhur, santun dan cinta tanah air yang berakar pada kearifan budaya bangsa
-    c. Melaksanakan pembelajaran dan bimbingan yang efektif, kreatif dan inovatif untuk membentuk peserta didik sebagai insan pembelajar dalam bidang akademis dan non akademis
-    d. Menumbuhkan semangat pada siswa untuk berprestasi dalam bidang olah raga, seni dan berkarya pada bidang lain yang berakar pada budaya bangsa.
+    Menumbuhkembangkan Perilaku Religius para Peserta Didik sehingga dapat menghayati dan mengamalkan ajaran Agama yang dianutnya dalam segala bidang kehidupan.
+    Menumbuhkan Kedisiplinan, sikap percaya diri, saling menghargai dan kerjasama, sehingga mampu membentuk sikap peserta didik yang berbudi pekerti luhur, santun dan cinta tanah air yang berakar pada kearifan budaya bangsa.
+    Melaksanakan pembelajaran dan bimbingan yang efektif, kreatif dan inovatif untuk membentuk peserta didik sebagai insan pembelajar dalam bidang akademis dan non akademis.
+    Menumbuhkan semangat pada siswa untuk berprestasi dalam bidang olah raga, seni dan berkarya pada bidang lain yang berakar pada budaya bangsa.

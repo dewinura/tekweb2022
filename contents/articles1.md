@@ -10,8 +10,8 @@ VISI
 
 MISI
 
-    a.  Melaksanakan pembelajaran yang sesuai dengan al Qur’an dan al Hadits
-    b.  Membiasakan siswa berperilaku jujur, disiplin, bertanggung jawab dan kerjasama
-    c. Menyediakan sarana dan prasarana yang mendukung pengembangan potensi peserta didik
-    d. Melaksanakan pembelajaran berbasis IT ( informasi dan teknologi )
-    e. Melibatkan peran serta peserta didik, guru, orang tua dan masyarakat
+    Melaksanakan pembelajaran yang sesuai dengan al Qur’an dan al Hadits
+    Membiasakan siswa berperilaku jujur, disiplin, bertanggung jawab dan kerjasama
+    Menyediakan sarana dan prasarana yang mendukung pengembangan potensi peserta didik
+    Melaksanakan pembelajaran berbasis IT ( informasi dan teknologi )
+    Melibatkan peran serta peserta didik, guru, orang tua dan masyarakat
