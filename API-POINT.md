@@ -1,4 +1,4 @@
-'''c
+```c
 ### User
 
 ## Menampilkan data user
@@ -166,4 +166,4 @@ DELETE: /article/[id]
 response:
 true    // if success
 false   // if failure
-''
+``
